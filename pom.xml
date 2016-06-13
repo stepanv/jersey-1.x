@@ -78,10 +78,9 @@
         <url>http://hudson.glassfish.org/job/Jersey-trunk-multiplatform/</url>
     </ciManagement>
     <scm>
-        <connection>scm:svn:https://svn.java.net/svn/jersey~svn/trunk/jersey/</connection>
-        <developerConnection>scm:svn:https://svn.java.net/svn/jersey~svn/trunk/jersey/</developerConnection>
+        <connection>scm:git:git://java.net/jersey~code-1_x</connection>
+        <developerConnection>scm:git:ssh://git.java.net/jersey~code-1_x</developerConnection>
         <tag>HEAD</tag>
-        <url>http://java.net/projects/jersey/sources/svn/show/trunk/jersey</url>
     </scm>
 
     <mailingLists>
